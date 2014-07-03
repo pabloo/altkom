@@ -1,7 +1,7 @@
 package pl.altkom;
 
 public class samolot {
- public void showInfo2(){
+ public void showInfo3(){
 	 
  }
 }
