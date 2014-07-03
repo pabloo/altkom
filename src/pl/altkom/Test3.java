@@ -3,8 +3,8 @@ package pl.altkom;
 public class Test3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("Kolejny testowy plik");
+		
+System.out.println("Howl,s Moving Castle");
 	}
 
 }
