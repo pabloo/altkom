@@ -2,9 +2,9 @@ package pl.altkom;
 
 public class New {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void showInfo (){
+		System.out.println("Pan kotek by chory i leżal w lozeczku i przyszedl pan doktor: jak sie masz koteczku");
+   //  fsddafasdfasdfasdfasd fasdf asdf asdf asd
 	}
 
 }
